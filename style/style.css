@@ -104,8 +104,8 @@ header {
   justify-content: center;
 }
 .inner {
-  max-width: 35rem;
-  padding: 0 2rem;
+  max-width: 40rem;
+  padding: 0 1.5rem;
   color: #fff;
 }
 .title {
@@ -184,3 +184,4 @@ p {
   margin: 50px auto;
   text-align: center;
 }
+
